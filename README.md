@@ -1,1 +1,1 @@
-# OverTheWireBandit-Levels
+# Over the wire bandit levels
