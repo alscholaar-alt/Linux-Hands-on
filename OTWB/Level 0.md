@@ -1,4 +1,4 @@
-# Level 0
+## Level 0
 **Goal:** Connect to the Bandit server using SSH with the given credentials.
 
 **What I Did:**  
