@@ -1,9 +1,9 @@
 ## Level 0
-**Goal:** Connect to the Bandit server using SSH with the given credentials.
-
-**What I Did:**  
-I ran the SSH command with port and user flags.
+**Aim:** Log into the game server using ssh.
+**What was provided:** The username, the hostname and port number.
+**Action taken:**  
+I connected to the server using the SSH command in the format ssh username@hostname -p 2220, as shown below.
 
 ```bash
-ssh -p 2220 bandit0@bandit.labs.overthewire.org 
+ssh bandit0@bandit.labs.overthewire.org -p 2220 
 ```
